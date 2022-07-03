@@ -1,2 +1,2 @@
-# FeruzaBonu-Portfolio
+# FeruzaBonu_Portfolio
 FeruzaBonu Adashaliyeva Portfolio
